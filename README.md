@@ -13,6 +13,8 @@ Cite the published paper if you used aTrain for your research: [Take the aTrain.
 ## Becoming a developer
 Please refer to [Developer wiki page](https://github.com/JuergenFleiss/aTrain/wiki/Development:-Branching,-contributing-and-releases) for the details on how to contribute to the project and other useful information for developers.
 
+Note: The speaker detection feature relies on `pyannote.audio` version `3.3.2`. This dependency is pinned in `pyproject.toml` to ensure consistent builds.
+
 
 ## About aTrain
 
